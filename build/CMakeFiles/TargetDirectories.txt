@@ -1,3 +1,0 @@
-/home/xuwenyu/Data_Structure/build/CMakeFiles/rebuild_cache.dir
-/home/xuwenyu/Data_Structure/build/CMakeFiles/ForceMatch.dir
-/home/xuwenyu/Data_Structure/build/CMakeFiles/edit_cache.dir
